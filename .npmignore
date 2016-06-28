@@ -1,0 +1,16 @@
+
+_test_
+node_modules
+coverage
+.nyc_output
+.sonar
+.babelrc
+.eslintrc
+.stylelintrc
+mocha.opts
+webpack.config.js
+examples
+dist
+webpack.cf.config.js
+webpack.examples.config.js
+sonar-project.properties
