@@ -1,7 +1,7 @@
 # React Jest Boilerplate
 =====================
 
-A minimal and light dev environment for ReactJS.
+A minimal and light dev environment for ReactJS. Slideshow I created for training is available [here](https://docs.google.com/presentation/d/1L9TsQkdq9lSdPcAk54by8vvUOv0jPG0wOJv2XC3i8AY/edit?usp=sharing)
 
 ### Usage
 
